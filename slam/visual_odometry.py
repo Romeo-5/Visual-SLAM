@@ -1,4 +1,3 @@
-# visual_odometry.py
 import cv2
 import numpy as np
 from core.camera import Camera
